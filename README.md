@@ -37,5 +37,9 @@ echo structure interface
 gcc first.c -o first `pkg-config --cflags --libs gtk+-2.0`
 
 ## reference
+[GTK+]
 http://recolog.blogspot.tw/2011/08/gui-programming-with-c-language-on.html
 
+[Coding stytle]
+http://codex.wiki/post/164420-438
+https://www.ptt.cc/bbs/C_and_CPP/M.1320472279.A.C06.html
