@@ -12,10 +12,11 @@ sudo apt-get install build-essential
 sudo apt-get install libgtk2.0-doc devhelp
 
 ## mouse event
-### goal
+[goal]
 1.mouse can drag "left click to add arrow to function"
 2.when mouse to "square" the function will display his "sketch comment"
-### feature
+
+[feature]
 3.buttom will display his "data structure number"
 
 ## GUI element
@@ -23,7 +24,8 @@ echo sketch
 echo arrow
 echo function
 echo structure interface
-### feature
+
+[feature]
 1.color choice
 2.data structure need [IN] [OUT]
 
