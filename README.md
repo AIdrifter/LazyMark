@@ -2,8 +2,9 @@
 This pad text is synchronized as you type, so that everyone viewing this page sees the same text.  This allows you to collaborate seamlessly on documents!
 
 # libraries install
-### You need GTK+,GTK+ stands dor GIMP Tool Kit and it was originally developed
-### for GIMP(GNU Image Manipulation Program.
+You need GTK+,GTK+ stands dor GIMP Tool Kit and it was originally developed
+for GIMP(GNU Image Manipulation Program.
+
 sudo apt-get install build-essential
 sudo apt-get install libgtk2.0-doc devhelp
 sudo apt-get installlibgtk2.0-dev
